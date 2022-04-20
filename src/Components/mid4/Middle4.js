@@ -43,7 +43,7 @@ export default function Middle4() {
                         <div className='col col-md-4 col-sm-6'>
                             <div className='row'>
                                 <div className='col col-md-12 text-white text-left'>
-                                    <p className='display-4'><b>Categories</b></p>
+                                    <p className='display-4'><b>CATEGORIES</b></p>
                                 </div>
                                 <div className='w-100'></div>
                                 <div className='col col-md-6 cl1'>
