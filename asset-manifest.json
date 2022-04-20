@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/quantam1/static/css/main.765dc1d5.css",
+    "main.js": "/quantam1/static/js/main.a095fcc2.js",
+    "static/js/787.386340aa.chunk.js": "/quantam1/static/js/787.386340aa.chunk.js",
+    "static/media/moon.jpg": "/quantam1/static/media/moon.291cd9a652ee71d8e1e7.jpg",
+    "static/media/pic2.jpg": "/quantam1/static/media/pic2.86dbac0ef9312e12e09c.jpg",
+    "static/media/ring.png": "/quantam1/static/media/ring.9b93b88e1a1ec595a697.png",
+    "static/media/logo.png": "/quantam1/static/media/logo.934ba41c42955253e3d5.png",
+    "index.html": "/quantam1/index.html",
+    "main.765dc1d5.css.map": "/quantam1/static/css/main.765dc1d5.css.map",
+    "main.a095fcc2.js.map": "/quantam1/static/js/main.a095fcc2.js.map",
+    "787.386340aa.chunk.js.map": "/quantam1/static/js/787.386340aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.765dc1d5.css",
+    "static/js/main.a095fcc2.js"
+  ]
+}
