@@ -1,0 +1,14 @@
+.beta{
+    background-color: rgba(29, 57, 216, 0.672);
+}
+.imge{
+    box-shadow: rgb(12, 17, 23) 0px 25px 35px -10px;
+}
+.beta:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+    zoom: 90%;
+}
+.beta:focus{
+    background-color: blueviolet;
+}

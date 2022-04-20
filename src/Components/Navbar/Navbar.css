@@ -1,0 +1,32 @@
+.nav-link {
+    color:white !important;
+    padding: 1rem !important;
+    text-transform: uppercase;
+}
+.nav-link:focus{
+    text-decoration: underline !important;
+    color: blue!important;
+    text-underline-offset: 1rem;
+  
+background-color: rgb(76, 70, 70);
+}
+.nav-link:hover{
+    color: red !important;
+
+}
+.row {
+    margin-right: -15px;
+    margin-left: 0px !important;
+}
+#list:hover{
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 400px) {
+#list1{
+    flex-direction: row !important;
+    width: 10px;
+    text-align: center;
+}
+    
+  }

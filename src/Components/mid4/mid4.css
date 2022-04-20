@@ -1,0 +1,49 @@
+.grad{
+    /* background-image: linear-gradient(to right, rgb(28, 26, 26) , rgb(97, 97, 91),rgb(30, 30, 29),rgb(43, 43, 41)); */
+        color: white;
+        background: repeating-radial-gradient(
+          circle,
+          #212222,
+          rgb(44, 43, 44) 20px,
+          #111111 20px
+        );
+}
+.bg5{
+    background-color: black;
+}
+.stripe-1 {
+    color: white;
+    background: repeating-linear-gradient(
+      45deg ,
+      /* #4a4b4d, */
+      #212222 5px,
+      rgb(54, 53, 53) 10px,
+      rgb(21, 21, 21) 20px
+      );
+      height: 2rem;
+}
+
+.size{
+    font-size: 1rem !important;
+    columns: red;
+}
+.inputBackgroud{
+    background:linear-gradient(to right,#121313 50%, #222222 , #414142 , #52606e  );
+
+}
+.cl1{
+    padding-right: 0px !important;
+    
+}
+.cl2{
+    padding-left: 0px !important;
+
+}
+.imi{
+    width: 80px;
+    height: 80px;
+}
+.textColo{
+    color: black;
+    
+}

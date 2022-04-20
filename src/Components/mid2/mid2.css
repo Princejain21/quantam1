@@ -1,0 +1,28 @@
+.gola{
+    border: 1rem solid rgb(33, 31, 31);
+    /* margin: 0px 10px; */
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(blue,rgb(87, 123, 242));
+    border-radius: 50%
+}
+.baten{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.baten:focus{
+    background-color: blue;
+    color: white;
+
+
+}
+.para{
+    background-color: rgb(21, 20, 20);
+}
+.bg1{
+    background-color: rgb(17, 16, 16);
+}
+.bg2{
+    background-color: black;
+}
